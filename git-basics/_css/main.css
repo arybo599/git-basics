@@ -168,7 +168,7 @@ header,main,footer {
 header {
    border-bottom:1px solid rgb(157,189,198);
    margin-bottom: 1em;
-   background: rgb(218,234,239);
+   background: rgb(218,234,238);
  }
 header h1 {
    color: rgb(127,64,45);
